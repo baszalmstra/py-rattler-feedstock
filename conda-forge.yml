@@ -13,3 +13,4 @@ provider:
   osx_64: default
   osx_arm64: default
   linux_aarch64: default
+  win_arm64: azure
